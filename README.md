@@ -1,5 +1,5 @@
 
-# Amazon Clone (HTML + CSS Only)
+
 
 This project is a simple front-end clone of the Amazon homepage built using only **HTML and CSS**.  
 It focuses on recreating the structure, layout, and styling of Amazon’s UI, including the header, search bar, product sections, and footer.
