@@ -80,7 +80,7 @@ amazon-clone/
 - Add login page, cart page, and more sections
 
 ---
-I followed concepts from apna college tutorial but i redesigned the UI to match the latest amazon wensite instead of the older version shown in the video. (the designed is of amazon.com and not amazon.in)
+I followed concepts from apna college tutorial but i redesigned the UI to match the latest amazon website instead of the older version shown in the video. (the designed is of amazon.com and not amazon.in)
 
 ## 📌 Status
 
